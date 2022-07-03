@@ -6,3 +6,20 @@ With this challenge, we learned what unsupervised learning is used for, how to p
 Below are some images to present some of the data we processed from this analysis:
 
 
+**PCA - Three Principal Components**
+
+![PCA.png](Images/PCA.png)
+
+**Elbow Curve to find best value for K**
+![Elbow_Curve.png](Images/Elbow_Curve.png)
+
+**3D-Scatter with Clusters**
+![Scatter_3D.png](Images/Scatter_3D.png)
+
+**Tradable Cryptocurrencies Table**
+![Tradable_Crypto.png](Images/Tradable_Crypto.png)
+
+**Scatter Plot with x = Total Coins Mined and y = Total Coin Supply**
+![Scatter_Plot.png](Images/Scatter_Plot.png)
+
+
